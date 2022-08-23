@@ -6,7 +6,7 @@ import 'package:drift/native.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 import 'package:rhythmic/backend/tables/display_tracker_providers.dart';
-import 'package:rhythmic/backend/timeline.dart';
+import 'package:rhythmic/backend/tables/timeline.dart';
 import 'package:rhythmic/backend/tracker/tracker_union.dart';
 import 'package:rhythmic/backend/tracker/tracker_union_converter.dart';
 part 'tracker_tables.g.dart';
