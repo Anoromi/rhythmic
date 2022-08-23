@@ -1,16 +1,8 @@
-# m3_tabs
+# rhythmic
 
-A new Flutter project.
+A work in progress app for tracking life events.
 
-## Getting Started
+**Author: Andrii Zahorulko**
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For now demonstrates list of point and duration tracker widgets with partial backend.
